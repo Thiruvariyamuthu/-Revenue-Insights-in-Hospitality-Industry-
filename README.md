@@ -40,7 +40,8 @@ Developed DAX formulas to calculate essential key performance indicators (KPIs) 
 - **Filters:** Incorporated various filters to allow users to customize their view and focus on specific data segments.
 
 ## Dashboard Preview
-https://github.com/Thiruvariyamuthu/-Revenue-Insights-in-Hospitality-Industry-/blob/main/Dashboard%20Image.png
+![Dashboard Preview](https://github.com/Thiruvariyamuthu/-Revenue-Insights-in-Hospitality-Industry-/blob/main/Dashboard%20Image.png)
+
 
 
 ## Project Files
